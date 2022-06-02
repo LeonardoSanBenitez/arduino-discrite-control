@@ -1,4 +1,5 @@
-# esp8266-discrite-control
+# Arduino-discrite-control
+
 Implementation of a discrite control system for ESP8266 with Arduino
 
 ## Requirements
